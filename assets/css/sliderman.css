@@ -1,0 +1,11 @@
+#slider_container_3 { float: left; padding:7px; width: 800px; border: 1px #333333 solid; }
+
+.SliderName_3 {
+	float: left;
+	width: 800px;
+	height: 200px;
+	overflow: hidden;
+}
+
+#wrapper { margin: 0 auto; padding: 0 40px 0px 140px; width: 960px; }
+		 
